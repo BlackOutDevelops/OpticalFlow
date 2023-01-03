@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.cpp
+d:\school\robot vision\module 4 required assignment four\opticalflow_vs\opticalflow_vs\optiflow\common.h(5): fatal error C1083: Cannot open include file: 'cv.h': No such file or directory
+  between.cpp
+d:\school\robot vision\module 4 required assignment four\opticalflow_vs\opticalflow_vs\optiflow\between.h(8): fatal error C1083: Cannot open include file: 'cv.h': No such file or directory
+  Tracker.cpp
+d:\school\robot vision\module 4 required assignment four\opticalflow_vs\opticalflow_vs\optiflow\tracker.h(2): fatal error C1083: Cannot open include file: 'cv.h': No such file or directory
+  Generating Code...
